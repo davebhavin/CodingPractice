@@ -1,5 +1,16 @@
 //https://javahungry.blogspot.com/2019/02/different-star-pattern-program-in-java.html (Problem number 5)
 
+//       *
+//      *  *
+//     * * *
+//    * * * *
+//   * * * * *
+//  * * * * * *
+// * * * * * * *
+
+
+
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
